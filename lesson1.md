@@ -11,8 +11,10 @@ Joy Lin
 
 
 ## Github Username
-joyfundev
+**joyfundev**
 
 
 ## My Favorite 3 Programming Languages
-java java java
+1.java 
+2.java 
+3.python
